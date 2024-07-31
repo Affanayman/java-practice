@@ -1,0 +1,7 @@
+lambda expressions were introduced in java 8
+lambda expression is an anonymous function. it's a function without name and does not belong to any class
+lambda exp are mainly used ro implement functional interfaces
+in lambda expressions main parts are body and parameters
+() input parameters
+{} body
+-> lambda
